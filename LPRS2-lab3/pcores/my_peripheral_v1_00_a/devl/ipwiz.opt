@@ -1,0 +1,9 @@
+-batch 
+-create my_peripheral 
+-ver 1.00.a 
+-dir "D:\ra41-2015\lprs\lab03\lab03_new_hope\LPRS2-lab3" 
+-lang vhdl 
+-bus axi4lite s 
+-reg 1 
+-xps 
+-driver 
