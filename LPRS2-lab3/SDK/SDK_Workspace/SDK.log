@@ -1,0 +1,45 @@
+09:57:32.298 INFO  - Processing command line option -hwspec D:\Ra59-2015\lab3\LPRS2-lab3\SDK\SDK_Export\hw\system.xml. 
+10:01:15.874 INFO  - FPGA configured successfully with bitstream "D:/Ra59-2015/lab3/LPRS2-lab3/SDK/SDK_Workspace/LPRS2-lab3_hw_platform/download.bit" 
+10:02:19.737 ERROR - Unexpected error while launching program. com.xilinx.sdk.targetmanager.TMException: MicroBlaze is under RESET. Check if the Reset input to MicroBlaze and its Bus Interfaces are connected properly
+    UNABLE to STOP MicroBlaze
+
+	at com.xilinx.sdk.targetmanager.internal.TM.connectToProcessor(Unknown Source)
+	at com.xilinx.sdk.debug.core.internal.AppRunner.run(Unknown Source)
+
+10:03:22.207 INFO  - FPGA configured successfully with bitstream "D:/Ra59-2015/lab3/LPRS2-lab3/SDK/SDK_Workspace/LPRS2-lab3_hw_platform/download.bit" 
+10:03:50.207 ERROR - Unexpected error while launching program. com.xilinx.sdk.targetmanager.TMException: MicroBlaze is under RESET. Check if the Reset input to MicroBlaze and its Bus Interfaces are connected properly
+    UNABLE to STOP MicroBlaze
+
+	at com.xilinx.sdk.targetmanager.internal.TM.connectToProcessor(Unknown Source)
+	at com.xilinx.sdk.debug.core.internal.AppRunner.run(Unknown Source)
+
+10:04:59.850 INFO  - FPGA configured successfully with bitstream "D:/Ra59-2015/lab3/LPRS2-lab3/SDK/SDK_Workspace/LPRS2-lab3_hw_platform/download.bit" 
+10:05:16.820 ERROR - Unexpected error while launching program. com.xilinx.sdk.targetmanager.TMException: MicroBlaze is under RESET. Check if the Reset input to MicroBlaze and its Bus Interfaces are connected properly
+    UNABLE to STOP MicroBlaze
+
+	at com.xilinx.sdk.targetmanager.internal.TM.connectToProcessor(Unknown Source)
+	at com.xilinx.sdk.debug.core.internal.AppRunner.run(Unknown Source)
+
+10:05:41.820 INFO  - FPGA configured successfully with bitstream "D:/Ra59-2015/lab3/LPRS2-lab3/SDK/SDK_Workspace/LPRS2-lab3_hw_platform/download.bit" 
+10:05:50.148 ERROR - Unexpected error while launching program. com.xilinx.sdk.targetmanager.TMException: MicroBlaze is under RESET. Check if the Reset input to MicroBlaze and its Bus Interfaces are connected properly
+    UNABLE to STOP MicroBlaze
+
+	at com.xilinx.sdk.targetmanager.internal.TM.connectToProcessor(Unknown Source)
+	at com.xilinx.sdk.debug.core.internal.AppRunner.run(Unknown Source)
+
+10:07:47.360 ERROR - Unexpected error while parsing XMD response ?: com.google.gson.JsonSyntaxException: com.google.gson.stream.MalformedJsonException: invalid number or unquoted string near  
+10:17:01.074 INFO  - Processing command line option -hwspec C:\Users\student\Desktop\lab3Test\LPRS2-lab3\xps\SDK\SDK_Export\hw\system.xml. 
+10:17:01.838 INFO  - The hardware specification for project 'LPRS2-lab3_hw_platform' is different from C:\Users\student\Desktop\lab3Test\LPRS2-lab3\xps\SDK\SDK_Export\hw\system.xml. 
+10:17:01.869 INFO  - Copied contents of C:\Users\student\Desktop\lab3Test\LPRS2-lab3\xps\SDK\SDK_Export\hw\system.xml into \LPRS2-lab3_hw_platform\system.xml. 
+10:17:01.885 INFO  - Copied contents of C:\Users\student\Desktop\lab3Test\LPRS2-lab3\xps\SDK\SDK_Export\hw\system.bit into \LPRS2-lab3_hw_platform\system.bit. 
+10:17:01.885 INFO  - Copied contents of C:\Users\student\Desktop\lab3Test\LPRS2-lab3\xps\SDK\SDK_Export\hw\system_bd.bmm into \LPRS2-lab3_hw_platform\system_bd.bmm. 
+10:17:02.275 INFO  - Synchronizing projects in the workspace with the hardware platform specification changes. 
+10:17:04.149 INFO  - Updating hardware inferred compiler options for hello_world. 
+10:17:04.180 INFO  - Clearing existing target manager status. 
+10:17:28.743 ERROR - Unexpected error while launching program. com.xilinx.sdk.targetmanager.TMException: MicroBlaze is under RESET. Check if the Reset input to MicroBlaze and its Bus Interfaces are connected properly
+    UNABLE to STOP MicroBlaze
+
+	at com.xilinx.sdk.targetmanager.internal.TM.connectToProcessor(Unknown Source)
+	at com.xilinx.sdk.debug.core.internal.AppRunner.run(Unknown Source)
+
+10:20:59.627 ERROR - Unexpected error while parsing XMD response ?: com.google.gson.JsonSyntaxException: com.google.gson.stream.MalformedJsonException: invalid number or unquoted string near  
